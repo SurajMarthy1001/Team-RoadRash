@@ -1,6 +1,7 @@
 ## Photos of project components that have arrived:
 
-![IMG20221205020443](https://user-images.githubusercontent.com/69215958/205572335-9e5e0f9b-717b-44ca-8b57-95a28c518739.jpg)
+- Battery Pack
+  ![IMG20221205020443](https://user-images.githubusercontent.com/69215958/205572335-9e5e0f9b-717b-44ca-8b57-95a28c518739.jpg)
 
 ![IMG_20221205_020247](https://user-images.githubusercontent.com/69215958/205572353-b91351cd-5fb3-4c31-a6df-0433b2aaa4db.jpg)
 
